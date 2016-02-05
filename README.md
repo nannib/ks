@@ -1,5 +1,5 @@
 # ks
-This is a keywords searching tool. 
+This is a forensic keywords searching tool. 
 
 This is a keywords searching tool. sudo bash ks.sh for running it. It mounts a DD image file; It extracts all deleted files; slackspace; It makes a data carving on the freespace only; It indexes all by RECOLL. You need:
 The Sleuthkit (latest release)
